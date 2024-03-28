@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++, Python, HTML, CSS, ...
 - 📫 How to reach me: Social Media or Gmail
-- 😄 Pronouns: he
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love hacking websites
 
 <!---
