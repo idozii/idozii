@@ -7,8 +7,6 @@
 <a href="https://github.com/idozii/idozii/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/idozii/idozii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
-
 </div>
 
 ### Contents:
