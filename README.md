@@ -24,7 +24,7 @@
 - [CONFIG](https://github.com/idozii/idozii)
 
 #### Game Mode 🚀
-- [SHERLOCK HOMES](https://github.com/idozii/BTL2)
+- [SHERLOCK HOLMES](https://github.com/idozii/BTL2)
 - [FLAPPY BIRD](https://github.com/idozii/FLAPPY_BIRD)
 - [TURTLE](https://github.com/idozii/TURTLE)
 - [TOUCH SCREEN](https://github.com/idozii/TOUCH_SCREEN)
