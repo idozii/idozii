@@ -20,14 +20,6 @@
 
 </div>
 
-## Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-  - [License](#license)
-
 ## Categories
 
 #### GitHub Actions 🤖
