@@ -15,7 +15,6 @@
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-  - [Video Tutorials](#tutorials)
   - [License](#license)
 
 ## Categories
@@ -45,13 +44,6 @@
 - [INTERNET SPEEDTEST](https://github.com/idozii/INTERSPEEDTEST)
 - [URL SHORTENER](https://github.com/idozii/URL-SHORTENER)
 - [CALCULATOR APP](https://github.com/idozii/CALCULATOR-APP)
-
-## Tutorials
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
-- ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
-- ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
-- ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
 ## License
 
