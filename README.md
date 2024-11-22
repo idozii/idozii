@@ -36,6 +36,9 @@
 - [DATA STRUCTURE AND ALGORITHMS](https://github.com/idozii/DSA)
 - [MY PAGE](https://github.com/idozii/MY_PAGE_PROJECT)
 - [DISCRETE MATHEMATICS](https://github.com/idozii/DSC)
+- [AI PROJECT](https://github.com/idozii/assignment2)
+- [CONVOLUTION OPERATION](https://github.com/idozii/MIPS)
+- [BLOCKCHAIN TESTING](https://github.com/idozii/BLOCKCHAIN)
 
 #### Simple but Innovative Ones 🤗
 - [WEATHER APP](https://github.com/idozii/WEATHER_APP)
