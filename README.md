@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tue Nguyen</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">A passionate Data Science student from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idozii&label=Profile%20views&color=0e75b6&style=flat" alt="idozii" /> </p>
 
@@ -29,28 +29,20 @@
 - [SHERLOCK HOLMES](https://github.com/idozii/BTL2)
 - [FLAPPY BIRD](https://github.com/idozii/FLAPPY_BIRD)
 - [TURTLE](https://github.com/idozii/TURTLE)
-- [TOUCH SCREEN](https://github.com/idozii/TOUCH_SCREEN)
 - [SNAKE GAME](https://github.com/idozii/SNAKEGAME)
 
-#### Code Mode 👨🏽‍💻
-- [DATA STRUCTURE AND ALGORITHMS](https://github.com/idozii/DSA)
-- [MY PAGE](https://github.com/idozii/MY_PAGE_PROJECT)
-- [DISCRETE MATHEMATICS](https://github.com/idozii/DSC)
-- [AI PROJECT](https://github.com/idozii/assignment2)
-- [CONVOLUTION OPERATION](https://github.com/idozii/MIPS)
+#### Compe Mode 👨🏽‍💻
 - [BLOCKCHAIN TESTING](https://github.com/idozii/BLOCKCHAIN)
+- [KAGGLECOMPE CLEANPLATES](https://github.com/idozii/KAGGLECOMPE_CLEANPLATES)
+- [KAGGLECOME TITANIC](https://github.com/idozii/KAGGLECOMPE_TITANIC)
+- [KAGGLECOMPE RAINFALL](https://github.com/idozii/KAGGLECOMPE_RAINFALL)
+- [KAGGLECOMPE MARCHMANIA](https://github.com/idozii/KAGGLECOMPE_MARCHMANIA)
+- [KAGGLECOMPE OLYMPIAD](https://github.com/idozii/KAGGLECOMPE_OLYMPIAD)
 
 #### Simple but Innovative Ones 🤗
-- [WEATHER APP](https://github.com/idozii/WEATHER_APP)
-- [QR CODE](https://github.com/idozii/QR_CODE)
-- [SOLAR SYSTEM](https://github.com/idozii/SOLAR_SYSTEM)
-- [SIGN IN FORM](https://github.com/idozii/SIGN_IN-FORM)
-- [ANIMATION EFFECTS](https://github.com/idozii/ANIMATION_EFFECTS)
-- [ANIMATION SLIDING PAGE](https://github.com/idozii/ANIMATION_SLIDING-PAGE)
-- [INTERNET SPEEDTEST](https://github.com/idozii/INTERSPEEDTEST)
-- [URL SHORTENER](https://github.com/idozii/URL-SHORTENER)
-- [CALCULATOR APP](https://github.com/idozii/CALCULATOR-APP)
-
+- [CANCER REGRESSION](https://github.com/idozii/CANCER-REGRESSION)
+- [SPORTS CAR](https://github.com/idozii/SPORTSCAR-PROJECT)
+- [CROP AND SOIL APPLICATION](https://github.com/idozii/CROP_AND_SOIL)
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
