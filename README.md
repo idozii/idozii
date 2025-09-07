@@ -32,7 +32,7 @@
     <li>🎓 Bachelor of Information Technology (Data Science) @ Macquarie University</li>
     <li>💻 Passionate about Data Science, Quantitative Analysis, and ML</li>
     <li>📊 Currently enhancing skills in Python, R, SQL, Pandas, NumPy, and Matplotlib</li>
-    <li>🔍 Working on Data Analysis, Kaggle Competitions, and Quant Projects</li>
+    <li>🔍 Working on Data Science, Kaggle Competitions, and Anomaly Detection Projects</li>
     <li>💡 Actively seeking opportunities in Data Science & Quant Research</li>
     <li>🌱 Learning ML algorithms, statistical modeling, and data visualization</li>
   </ul>
