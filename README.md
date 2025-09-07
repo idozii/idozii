@@ -1,51 +1,83 @@
 <h1 align="center">Hi 👋, I'm Tue Nguyen</h1>
-<h3 align="center">A passionate Data Science student from Vietnam</h3>
+<h3 align="center">A passionate Data Science student from Vietnam 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idozii&label=Profile%20views&color=0e75b6&style=flat" alt="idozii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idozii" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tuệ-nguyễn-duy-nhật-625361293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuệ nguyễn duy nhật" height="30" width="40" /></a>
-<a href="https://fb.com/nhattue.nguyenduy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhat tue nguyen duy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=idozii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=idozii" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idozii&show_icons=true&locale=en&layout=compact" alt="idozii" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idozii&show_icons=true&locale=en" alt="idozii" /></p>
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/tuệ-nguyễn-duy-nhật-625361293" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/nhattue.nguyenduy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
 
-</div>
+---
 
-## Categories
+### 🛠 Languages & Tools
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+</p>
 
-#### GitHub Actions 🤖
-- [CONFIG](https://github.com/idozii/idozii)
+---
 
-#### Game Mode 🚀
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idozii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idozii&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🎮 Game Mode
 - [SHERLOCK HOLMES](https://github.com/idozii/BTL2)
 - [FLAPPY BIRD](https://github.com/idozii/FLAPPY_BIRD)
 - [TURTLE](https://github.com/idozii/TURTLE)
 - [SNAKE GAME](https://github.com/idozii/SNAKEGAME)
 
-#### Compe Mode 👨🏽‍💻
+#### 👨🏽‍💻 Competition Mode
 - [BLOCKCHAIN TESTING](https://github.com/idozii/BLOCKCHAIN)
-- [KAGGLECOMPE CLEANPLATES](https://github.com/idozii/KAGGLECOMPE_CLEANPLATES)
-- [KAGGLECOME TITANIC](https://github.com/idozii/KAGGLECOMPE_TITANIC)
-- [KAGGLECOMPE RAINFALL](https://github.com/idozii/KAGGLECOMPE_RAINFALL)
-- [KAGGLECOMPE MARCHMANIA](https://github.com/idozii/KAGGLECOMPE_MARCHMANIA)
-- [KAGGLECOMPE OLYMPIAD](https://github.com/idozii/KAGGLECOMPE_OLYMPIAD)
+- [KAGGLE CLEANPLATES](https://github.com/idozii/KAGGLECOMPE_CLEANPLATES)
+- [KAGGLE TITANIC](https://github.com/idozii/KAGGLECOMPE_TITANIC)
+- [KAGGLE RAINFALL](https://github.com/idozii/KAGGLECOMPE_RAINFALL)
+- [KAGGLE MARCHMANIA](https://github.com/idozii/KAGGLECOMPE_MARCHMANIA)
+- [KAGGLE OLYMPIAD](https://github.com/idozii/KAGGLECOMPE_OLYMPIAD)
 
-#### Simple but Innovative Ones 🤗
+#### 🤗 Innovative Projects
 - [CANCER REGRESSION](https://github.com/idozii/CANCER-REGRESSION)
 - [SPORTS CAR](https://github.com/idozii/SPORTSCAR-PROJECT)
 - [CROP AND SOIL APPLICATION](https://github.com/idozii/CROP_AND_SOIL)
-## License
 
+---
+
+### 📝 License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+This work is released under CC0 — all rights waived to the extent possible.  
 
-To the extent possible under law, [idozii](https://www.facebook.com/nhattue.nguyenduy) has waived all copyright and related or neighboring rights to this work.
+---
 
+<p align="center">Made with ❤️ by Tue Nguyen</p>
