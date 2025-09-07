@@ -30,10 +30,10 @@
   
   <ul>
     <li>🎓 Bachelor of Information Technology (Data Science) @ Macquarie University</li>
-    <li>💻 Passionate about Data Science, Quantitative Analysis, and ML</li>
-    <li>📊 Currently enhancing skills in Python, R, SQL, Pandas, NumPy, and Matplotlib</li>
+    <li>💻 Passionate about Data Science, and ML</li>
+    <li>📊 Currently enhancing skills in Python, SQL, Tensorflow, PyTorch, Pandas, NumPy, and Matplotlib</li>
     <li>🔍 Working on Data Science, Kaggle Competitions, and Anomaly Detection Projects</li>
-    <li>💡 Actively seeking opportunities in Data Science & Quant Research</li>
+    <li>💡 Actively seeking opportunities in Data Science</li>
     <li>🌱 Learning ML algorithms, statistical modeling, and data visualization</li>
   </ul>
 </div>
@@ -113,9 +113,8 @@
 <h2 align="center"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/idozii/BTL2"><img src="https://img.shields.io/badge/SHERLOCK_HOLMES-Game-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/idozii/FLAPPY_BIRD"><img src="https://img.shields.io/badge/FLAPPY_BIRD-Game-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/idozii/KAGGLECOMPE_TITANIC"><img src="https://img.shields.io/badge/KAGGLE_TITANIC-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/InterUni-Datathon-2025"><img src="https://img.shields.io/badge/InterUni_Datathon_2025-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/CROP_AND_SOIL"><img src="https://img.shields.io/badge/CROP_AND_SOIL-Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/CANCER-REGRESSION"><img src="https://img.shields.io/badge/CANCER_REGRESSION-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
