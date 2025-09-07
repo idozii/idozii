@@ -1,83 +1,130 @@
-<h1 align="center">Hi 👋, I'm Tue Nguyen</h1>
-<h3 align="center">A passionate Data Science student from Vietnam 🚀</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tue%20Nguyen&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=idozii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=idozii" alt="Trophies" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tue+Nguyen+%F0%9F%91%8B;Data+Science+Student;Aspiring+Quant+Data+Scientist;Lifelong+Learner" alt="Typing SVG" />
   </a>
-</p>
+</h1>
 
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/tuệ-nguyễn-duy-nhật-625361293" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=idozii&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/tuệ-nguyễn-duy-nhật-625361293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/nhattue.nguyenduy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <a href="https://github.com/idozii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<hr>
+
+<div>
+  <img align="right" height="220" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+  
+  <h2><img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="30"> About Me</h2>
+  
+  <ul>
+    <li>🎓 Bachelor of Information Technology (Data Science) @ Macquarie University</li>
+    <li>💻 Passionate about Data Science, Quantitative Analysis, and ML</li>
+    <li>📊 Currently enhancing skills in Python, R, SQL, Pandas, NumPy, and Matplotlib</li>
+    <li>🔍 Working on Data Analysis, Kaggle Competitions, and Quant Projects</li>
+    <li>💡 Actively seeking opportunities in Data Science & Quant Research</li>
+    <li>🌱 Learning ML algorithms, statistical modeling, and data visualization</li>
+  </ul>
+</div>
+
+<hr>
+
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack</h2>
+
+<h3>📊 Data Science & Analytics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
----
-
-### 🛠 Languages & Tools
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<h3>💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idozii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idozii&show_icons=true&locale=en" alt="GitHub Stats" />
+<h3>🗄️ Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
----
+<h3>🛠️ Tools & Others</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+</p>
 
-### 🚀 Projects
+<hr>
 
-#### 🎮 Game Mode
-- [SHERLOCK HOLMES](https://github.com/idozii/BTL2)
-- [FLAPPY BIRD](https://github.com/idozii/FLAPPY_BIRD)
-- [TURTLE](https://github.com/idozii/TURTLE)
-- [SNAKE GAME](https://github.com/idozii/SNAKEGAME)
+<h2 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats</h2>
 
-#### 👨🏽‍💻 Competition Mode
-- [BLOCKCHAIN TESTING](https://github.com/idozii/BLOCKCHAIN)
-- [KAGGLE CLEANPLATES](https://github.com/idozii/KAGGLECOMPE_CLEANPLATES)
-- [KAGGLE TITANIC](https://github.com/idozii/KAGGLECOMPE_TITANIC)
-- [KAGGLE RAINFALL](https://github.com/idozii/KAGGLECOMPE_RAINFALL)
-- [KAGGLE MARCHMANIA](https://github.com/idozii/KAGGLECOMPE_MARCHMANIA)
-- [KAGGLE OLYMPIAD](https://github.com/idozii/KAGGLECOMPE_OLYMPIAD)
+<div align="center">
+  <a href="https://github.com/idozii">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idozii&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idozii&layout=compact&langs_count=7&theme=nightowl"/>
+  </a>
+</div>
 
-#### 🤗 Innovative Projects
-- [CANCER REGRESSION](https://github.com/idozii/CANCER-REGRESSION)
-- [SPORTS CAR](https://github.com/idozii/SPORTSCAR-PROJECT)
-- [CROP AND SOIL APPLICATION](https://github.com/idozii/CROP_AND_SOIL)
+<div align="center">
+  <a href="https://github.com/idozii">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=idozii&theme=nightowl&hide_border=true"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <a href="https://github.com/idozii">
+    <img src="https://github-profile-trophy.vercel.app/?username=idozii&theme=discord&no-frame=true&row=1&column=6" alt="idozii" />
+  </a>
+</div>
 
-### 📝 License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-This work is released under CC0 — all rights waived to the extent possible.  
+<hr>
 
----
+<h2 align="center"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Contribution Graph</h2>
 
-<p align="center">Made with ❤️ by Tue Nguyen</p>
+<div align="center">
+  <a href="https://github.com/idozii">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=idozii&custom_title=Tue%27s%20Contribution%20Graph&theme=nightowl&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  </a>
+</div>
+
+<hr>
+
+<h2 align="center"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/idozii/BTL2"><img src="https://img.shields.io/badge/SHERLOCK_HOLMES-Game-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/FLAPPY_BIRD"><img src="https://img.shields.io/badge/FLAPPY_BIRD-Game-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/KAGGLECOMPE_TITANIC"><img src="https://img.shields.io/badge/KAGGLE_TITANIC-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/CANCER-REGRESSION"><img src="https://img.shields.io/badge/CANCER_REGRESSION-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <h3>Let's Connect and Collaborate! 👨‍💻</h3>
+  <p>Feel free to reach out for collaborations, opportunities, or just a chat about Data Science!</p>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <p><em>I love connecting with different people! Say hi anytime! 😊</em></p>
+</div>
