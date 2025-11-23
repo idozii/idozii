@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tue%20Nguyen&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tony%20Nguyen&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tue+Nguyen+%F0%9F%91%8B;Data+Science+Student;Aspiring+Data+Scientist;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tony+Nguyen+%F0%9F%91%8B;Data+Science+Student;Aspiring+Data+Scientist;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </h1>
 
