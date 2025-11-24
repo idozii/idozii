@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=idozii&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/tuệ-nguyễn-duy-nhật-625361293" target="_blank">
+  <a href="https://www.linkedin.com/in/tuenguyenduynhat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/nhattue.nguyenduy" target="_blank">
@@ -75,7 +75,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -129,6 +128,7 @@
   <a href="https://github.com/idozii/CANCER-REGRESSION"><img src="https://img.shields.io/badge/CANCER_REGRESSION-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/Weather_DataViz"><img src="https://img.shields.io/badge/WEATHER-DATAVIZ-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/FinWise-Intelligent-Investment-Assistant"><img src="https://img.shields.io/badge/FINWISE_INTELLIGENT-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/CyberSentinel-AI-powered-Security-Dashboard"><img src="https://img.shields.io/badge/CYBER_SENTINEL-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <hr>
