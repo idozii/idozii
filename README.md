@@ -125,10 +125,10 @@
 
 <div align="center">
   <a href="https://github.com/idozii/InterUni-Datathon-2025"><img src="https://img.shields.io/badge/InterUni_Datathon_2025-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/idozii/CROP_AND_SOIL"><img src="https://img.shields.io/badge/CROP_AND_SOIL-Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/CROP_AND_SOIL"><img src="https://img.shields.io/badge/CROP_AND_SOIL-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/CANCER-REGRESSION"><img src="https://img.shields.io/badge/CANCER_REGRESSION-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/Weather_DataViz"><img src="https://img.shields.io/badge/WEATHER-DATAVIZ-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/idozii/FinWise-Intelligent-Investment-Assistant"><img src="https://img.shields.io/badge/FINWISE-INTELLIGENT-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/FinWise-Intelligent-Investment-Assistant"><img src="https://img.shields.io/badge/FINWISE_INTELLIGENT-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <hr>
