@@ -29,7 +29,7 @@
   <h2><img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="30"> About Me</h2>
   
   <ul>
-    <li>🎓 Bachelor of Information Technology (Data Science) @ Macquarie University</li>
+    <li>🎓 Bachelor of Information Technology (Data Science) @MQU</li>
     <li>💻 Passionate about Data Science, and ML</li>
     <li>📊 Currently enhancing skills in Python, SQL, Tensorflow, PyTorch, Pandas, NumPy, and Matplotlib</li>
     <li>🔍 Working on Data Science, Kaggle Competitions, and Anomaly Detection Projects</li>
