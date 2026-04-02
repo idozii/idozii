@@ -96,16 +96,6 @@
 
 <hr>
 
-<h2 align="center"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Contribution Graph</h2>
-
-<div align="center">
-  <a href="https://github.com/idozii">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=idozii&custom_title=Tue%27s%20Contribution%20Graph&theme=nightowl&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-  </a>
-</div>
-
-<hr>
-
 <h2 align="center"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Projects</h2>
 
 <div align="center">
