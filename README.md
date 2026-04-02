@@ -30,11 +30,11 @@
   
   <ul>
     <li>🎓 Bachelor of Information Technology (Data Science) @MQU</li>
-    <li>💻 Passionate about Data Science, and ML</li>
-    <li>📊 Currently enhancing skills in Python, SQL, Tensorflow, PyTorch, Pandas, NumPy, and Matplotlib</li>
-    <li>🔍 Working on Data Science, Kaggle Competitions, and Anomaly Detection, Recommendation Engine Projects</li>
-    <li>💡 Actively seeking opportunities in Data Science</li>
-    <li>🌱 Learning ML algorithms, statistical modeling, and data visualization</li>
+    <li>💻 Passionate about Data Science and Machine Learning</li>
+    <li>📊 Currently enhancing skills in Python, SQL, TensorFlow, PyTorch, Pandas, NumPy, and Matplotlib</li>
+    <li>🔍 Building projects in anomaly detection, recommendation systems, and Kaggle competitions</li>
+    <li>💡 Seeking internship opportunities in Data Science / Machine Learning</li>
+    <li>🌱 Developing expertise in ML algorithms, statistical modeling, and data visualization</li>
   </ul>
 </div>
 
@@ -57,6 +57,7 @@
 <h3>💻 Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
