@@ -90,18 +90,8 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idozii&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&cacheSeconds=3600"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idozii&layout=compact&langs_count=7&theme=nightowl&cacheSeconds=3600"/>
-</div>
-
 <div align="center" style="margin-top: 20px;">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=idozii&theme=nightowl&hide_border=true&cacheSeconds=3600"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=idozii&theme=discord&no-frame=true&row=1&column=6&cacheSeconds=3600" alt="idozii"/>
 </div>
 
 <hr>
