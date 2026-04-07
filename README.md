@@ -104,6 +104,7 @@
   <a href="https://github.com/idozii/CANCER-REGRESSION"><img src="https://img.shields.io/badge/CANCER_REGRESSION-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/FinWise-Intelligent-Investment-Assistant"><img src="https://img.shields.io/badge/FINWISE_INTELLIGENT-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/CyberSentinel-AI-powered-Security-Dashboard"><img src="https://img.shields.io/badge/CYBER_SENTINEL-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/Object-Detection-System"><img src="https://img.shields.io/badge/OBJECT_DETECTION-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <hr>
