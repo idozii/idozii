@@ -32,7 +32,7 @@
     <li>🎓 Bachelor of Information Technology (Data Science) @MQU</li>
     <li>💻 Passionate about Data Science and Machine Learning</li>
     <li>📊 Currently enhancing skills in Python, SQL, TensorFlow, PyTorch, Pandas, NumPy, and Matplotlib</li>
-    <li>🔍 Building projects in anomaly detection, recommendation systems, and Kaggle competitions</li>
+    <li>🔍 Building projects in recommendation systems, and Kaggle competitions</li>
     <li>💡 Seeking internship opportunities in Data Science / Machine Learning</li>
     <li>🌱 Developing expertise in ML algorithms, statistical modeling, and data visualization</li>
   </ul>
