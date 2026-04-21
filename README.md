@@ -99,12 +99,12 @@
 <h2 align="center"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/idozii/InterUni-Datathon-2025"><img src="https://img.shields.io/badge/InterUni_Datathon_2025-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/MediPower"><img src="https://img.shields.io/badge/MediPower-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/CROP_AND_SOIL"><img src="https://img.shields.io/badge/CROP_AND_SOIL-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/CANCER-REGRESSION"><img src="https://img.shields.io/badge/CANCER_REGRESSION-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/idozii/FinWise-Intelligent-Investment-Assistant"><img src="https://img.shields.io/badge/FINWISE_INTELLIGENT-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/idozii/CyberSentinel-AI-powered-Security-Dashboard"><img src="https://img.shields.io/badge/CYBER_SENTINEL-ML-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/idozii/Object-Detection-System"><img src="https://img.shields.io/badge/OBJECT_DETECTION-DL-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/CyberSentinel-AI-powered-Security-Dashboard"><img src="https://img.shields.io/badge/CYBER_SENTINEL-DL-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/idozii/Gym-Pose-Detection-System"><img src="https://img.shields.io/badge/GYM_POSE_DETECTION-DL-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <hr>
